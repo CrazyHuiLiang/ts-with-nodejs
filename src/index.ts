@@ -1,4 +1,4 @@
-const num: number = 9;
+import './joiExample';
 
-console.log(num);
 
+console.log('index run.');
